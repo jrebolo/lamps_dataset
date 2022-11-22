@@ -1,6 +1,6 @@
-train: ../lamps_dataset/images/train
-val: ../lamps_dataset/images/validation
-test: ../lamps_dataset/images/test
+train: ../data/lamps/images/train
+val: ../data/lamps/images/validation
+test: ../data/lamps/images/test
 
 nc: 8
 
