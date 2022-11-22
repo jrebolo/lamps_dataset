@@ -1,0 +1,7 @@
+train: data/lamps/images/train
+val: data/lamps/images/validation
+test: data/lamps/images/test
+
+nc: 8
+
+names: [LED11, LED12, LED13, LED14, LED3, LED4, LED7, LED8]
